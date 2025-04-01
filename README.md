@@ -72,6 +72,9 @@ The project follows the MVVM (Model-View-ViewModel) architecture pattern with th
    - Responsive design
 
 
+## Demo video
+https://drive.google.com/file/d/1gFgUV0yxRzVKxYWkldviMdjaxEDcH7gH/view?usp=share_link
+
 ## How to Run
 
 ### Prerequisites
