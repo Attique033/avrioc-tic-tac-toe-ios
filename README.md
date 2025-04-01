@@ -136,3 +136,12 @@ https://drive.google.com/file/d/1gFgUV0yxRzVKxYWkldviMdjaxEDcH7gH/view?usp=share
 - Authentication state determines the initial view controller
 - Services are designed to be easily mockable for unit testing
 - The project follows a feature-first folder structure for better scalability
+
+## Disclaimer:
+
+>GitHub Copilot was used during development to assist with boilerplate and repetitive tasks to improve development efficiency.
+<br>
+> AI tools were also used to help write project’s README.md.
+Additionally, the project logo was generated using an AI-based image tool.
+<br>
+All design decisions, architecture, business logic, and final code implementations were crafted, reviewed, and tested manually to ensure they align with the case study objectives and reflect my own engineering work.
