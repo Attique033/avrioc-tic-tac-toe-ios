@@ -73,7 +73,12 @@ The project follows the MVVM (Model-View-ViewModel) architecture pattern with th
 
 
 ## Demo video
-https://drive.google.com/file/d/1gFgUV0yxRzVKxYWkldviMdjaxEDcH7gH/view?usp=share_link
+
+<video width="320" height="240" controls>
+  <source src="./demo/demo.mp4" type="video/mp4">
+</video>
+
+![Not working? visit here](https://drive.google.com/file/d/1gFgUV0yxRzVKxYWkldviMdjaxEDcH7gH/view?usp=share_link)
 
 ## How to Run
 
