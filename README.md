@@ -96,7 +96,11 @@ https://drive.google.com/file/d/1gFgUV0yxRzVKxYWkldviMdjaxEDcH7gH/view?usp=share
    ```
    Or double-click the `tictactoe.xcodeproj` file in Finder
 
-3. **Select Target Device**
+3. **Update API URL** 
+   - Open `Utils/Constants.swift`
+   - Update the `baseURL` constant to point to your backend API endpoint
+
+4. **Select Target Device**
    - Choose your target device/simulator from the scheme menu in Xcode
    - Ensure the selected device runs iOS 13.0 or later
 
