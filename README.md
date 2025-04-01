@@ -148,9 +148,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture pattern with th
 
 ## Disclaimer:
 
->GitHub Copilot was used during development to assist with boilerplate and repetitive tasks to improve development efficiency.
-<br>
-> AI tools were also used to help write project’s README.md.
-Additionally, the project logo was generated using an AI-based image tool.
-<br>
-All design decisions, architecture, business logic, and final code implementations were crafted, reviewed, and tested manually to ensure they align with the case study objectives and reflect my own engineering work.
+>GitHub Copilot was used during development to assist with boilerplate and repetitive tasks to improve development efficiency.\
+>AI tools were also used to help write project’s README.md.
+>Additionally, the project logo was generated using an AI-based image tool.\
+>All design decisions, architecture, business logic, and final code implementations were crafted, reviewed, and tested manually to ensure they align with the case study objectives and ?>reflect my own engineering work.
